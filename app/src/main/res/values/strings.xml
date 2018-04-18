@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">webScrapper</string>
+    <string name="mainTitle">MangaReading Tool - Download Center </string>
+    <string name="buttonLeft">Add List</string>
+    <string name="buttonRight">Read Manga</string>
+    <string name="buttonListele">List episodes</string>
+    <!--    <string-array name="mangaList">
+        <item>Naruto</item>
+        <item>Bleach</item>
+        <item>Fairy Tail</item>
+        <item>One Piece</item>
+    </string-array>
+    -->
+
 </resources>
